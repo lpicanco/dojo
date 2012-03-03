@@ -29,11 +29,7 @@ https://github.com/bbatsov/rails-style-guide
 
 Testes? Pff, Preciso disso não.
 -------------------------------
-RSpec
------
 http://blog.davidchelimsky.net/2007/05/14/an-introduction-to-rspec-part-i/
-Cucumber
---------
 http://ricardo.zn.inf.br/2011/02/06/tutorial-comecando-com-cucumber/
 
 
