@@ -46,5 +46,6 @@ http://railscasts.com/
 ### Onde acho Gems(bibliotecas) para resolver meus problemas?
 
 https://www.rubytoolbox.com/
+
 http://www.agilewebdevelopment.com/
 
